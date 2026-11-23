@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Temirlan Altay 👋
 
-<!--
-**Temirlankz/Temirlankz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer & student based in **Šiauliai, Lithuania**, building web applications, automation scripts, and bots.
 
-Here are some ideas to get you started:
+### Tech Stack
+- **Languages:** Python, JavaScript / TypeScript, C#, PHP, HTML5 / CSS3
+- **Frontend & Mobile:** React, React Native, Vue.js, Angular
+- **Backend & Automation:** Node.js, Telegram Bots, Web Scraping & Scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus Areas
+- Building clean, full-stack web applications
+- Developing Python automation tools and bots
+- Writing reliable, maintainable, production-ready code
+
+### Connect
+- **LinkedIn:** [temirlan-altay](https://www.linkedin.com/in/temirlan-altay/)
+- **Email:** temirlan.altay@sa.stud.vu.lt
